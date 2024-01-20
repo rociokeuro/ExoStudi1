@@ -1,0 +1,292 @@
+.bordeaux{
+    color:#621F17;
+}
+.rouge{
+    color:#A52F20;
+}
+
+.bleu{
+    color:#35749F;
+}
+
+.bleufonce{
+
+    color:#1B374B;
+}
+
+.black{
+
+    color:#020406;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  color: #122B2C;
+  
+}
+
+
+.divider{
+  width: 400px;
+  height: 2px;
+  background-color:#A52F20;
+  margin: 30px auto 20px;
+}
+
+.section-img{
+
+  margin: -20px;
+  }
+  
+  .btn-primary{
+  background-color: #621F17;
+
+  color:white;
+  border-style: none;
+  
+  }
+  
+  .btn-primary:hover {
+  box-shadow: inset 0 0 0 20rem var(--darken-1);
+  background-color: #35749F;
+  
+  }
+  
+  .btn-primary:active {
+  box-shadow: inset 0 0 0 20rem var(--darken-2),
+  inset 0 3px 4px 0 var(--darken-3),
+  0 0 1px var(--darken-2);
+  } 
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Montserrat:wght@200;300;400;600;800&display=swap');
+
+
+.navbar-brand{
+ margin-top: -20px;
+ padding-left: 20px;
+ margin-bottom: -20px;
+}
+
+
+.navigation{
+background-color: white;
+box-shadow: #000000;
+position: fixed;
+padding-top: 30px;
+padding-bottom: 30px;
+
+
+}
+
+.navbar .navbar-nav{
+ 
+  margin-top: 25px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  
+  font-size: 16px;
+  color: #122B2C;
+  box-shadow:#462B47;
+
+  }
+  
+  .nav-link{
+  color: #122B2C;
+  
+  }
+  
+  .nav-link:focus, .nav-link:hover {
+  
+   color: #FF6623;
+  }
+  
+a{
+text-decoration: none;
+}
+#nav ul {
+  display: inline-block;
+  list-style-type: none;
+  
+}
+
+li:visited{
+  color: #FF6623;
+
+}
+
+.dropdown-menu{
+
+  font-size: 12px;
+  color: #122B2C;
+  background-color: white;
+}
+
+
+#content{
+margin-top:80px;
+margin-bottom:80px;
+}
+
+.form-control:focus {
+ 
+  border-color: #75B491;
+  box-shadow: none;
+  transition: 0.5s ease-in;
+}
+
+.section-img{
+
+  margin: -20px;
+  }
+
+.footer {
+
+left: 0;
+bottom: 0;
+width: 100%;
+background-color:#DC1A16;
+color: white;
+text-align: center;
+padding: 20px;
+
+}
+
+
+
+.jumbotron {
+
+  background-image: url("/ExoStudi1/img/LaBoca.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+ 
+  text-align: center;
+  padding-top: 100px;
+  margin-top: -20px;
+
+
+}
+
+
+.jumbo-text{
+padding-top: 200px;
+
+
+
+} 
+.jumbotron .btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.home-testimonial{
+  background-color: #FF6623;
+  height: 380px
+
+}
+  
+.home-testimonial-bottom{
+  
+  background-color: white;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  position: relative;
+  height: 130px;
+  top: 190px;
+
+}
+
+
+.home-testimonial h2{
+  color: white;
+  font-size: 28px;
+  
+  
+}
+
+.testimonial-inner{
+  position: relative;
+  top: -174px;
+  position:relative;
+
+}
+
+.testimonial-pos{
+  position: relative;
+  top: 24px
+
+}
+.testimonial-inner 
+.tour-desc{
+  position: relative;
+  border-radius: 5px;
+  padding: 40px
+}
+
+.tm-people{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border-radius: 50%
+
+}
+
+
+#cartes{
+  position:sticky;
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+
+.card{
+  box-shadow: black;
+}
+
+.card-header{
+
+ background-color: #FF6623;
+ color: white;
+}
+
+.card-body{
+
+  background-color:#1A1E1C;
+  color:white;
+}
+
+.btnCards {
+	background-color: white;
+	color: black;
+	border-style: none;
+}
+
+.btnCards:hover {
+	box-shadow: inset 0 0 0 20rem var(- -darken-1);
+	background-color: #75B491;
+}
+.connexion {
+ 
+  background-image: url("/img/photo-4-web.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  
+  height: 100vh;
+ 
+}
+
+
+
+.my-md-1{
+
+width: 400px;
+height: 10px;
+color#;
+
+}
