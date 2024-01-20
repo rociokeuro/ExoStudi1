@@ -76,7 +76,6 @@ position: fixed;
 padding-top: 30px;
 padding-bottom: 30px;
 
-
 }
 
 .navbar .navbar-nav{
@@ -163,6 +162,7 @@ padding: 20px;
   background-size: cover;
   background-attachment: fixed;
   height: 100vh;
+  
  
  
   text-align: center;
@@ -239,15 +239,12 @@ padding-top: 300px;
 
 }
 
-
-
-
-
-
-.my-md-1{
-
-width: 400px;
-height: 10px;
-color#;
+.img-fluid{
+  padding-top: 300px;
 
 }
+
+
+
+
+
